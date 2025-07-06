@@ -36,3 +36,4 @@ The **Text Summarization Tool** is a Python script designed to automatically gen
 This tool is particularly useful for quickly understanding the main points of lengthy content, saving time by providing a condensed version of the original material.
 
 **OUTPUT**:
+<img width="1465" height="595" alt="Image" src="https://github.com/user-attachments/assets/108aa366-9595-49d1-bf5e-f4185ed5adbb" />

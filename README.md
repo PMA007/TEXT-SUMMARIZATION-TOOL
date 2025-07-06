@@ -7,7 +7,7 @@
 **DURATION**    : 8 WEEKS
 **MENTOR**      : NEELA SANTHOSH
 
-DESCRIPTION:
+**DESCRIPTION**:
 The **Text Summarization Tool** is a Python script designed to automatically generate concise summaries of longer articles or documents. It employs an **extractive summarization** approach, meaning it identifies and extracts the most important sentences directly from the original text to form the summary.
 
 **Here's an overview of its core functionality:**
@@ -29,3 +29,5 @@ The **Text Summarization Tool** is a Python script designed to automatically gen
     * These selected sentences are then reassembled in their original order to form the final, concise summary.
 
 This tool is particularly useful for quickly understanding the main points of lengthy content, saving time by providing a condensed version of the original material.
+
+**OUTPUT**:
